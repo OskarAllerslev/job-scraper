@@ -1,0 +1,10 @@
+name: job-scraper
+title:
+username: oskarallerslev
+account: oskarallerslev
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13639882
+bundleId: 9568370
+url: https://oskarallerslev.shinyapps.io/job-scraper/
+version: 1
